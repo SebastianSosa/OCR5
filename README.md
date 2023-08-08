@@ -40,6 +40,4 @@
 
 ### Livrables 
   1. Un ou des notebooks contenant les fonctions permettant le prétraitement et la feature extraction des données textes et images ainsi que les résultats de l’étude de faisabilité (graphiques, mesure de similarité).
-  2. Un notebook de classification supervisée des images.
-  3. Un script Python de test de l’API et le fichier au format “csv” contenant les produits extraits.
-  4. Un support de présentation pour la soutenance, détaillant le travail réalisé.
+  2. Un support de présentation pour la soutenance, détaillant le travail réalisé.
