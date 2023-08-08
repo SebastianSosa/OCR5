@@ -1,5 +1,5 @@
 # OCR5
-##OpenClassRooms projet 5: Segmentez des clients
+## OpenClassRooms projet 5: Classifiez automatiquement des biens de consommation
 
 ### Données
 
